@@ -1,5 +1,5 @@
 <MDBCall>
-  <REQUIRESCONTROLRECORD Value="True" />
+  <REQUIRESCONTROLRECORD Value="False" />
   <SKIPMDBSERVERUPDATE Value="True" />
   <CALLLINKCOUNT Value="1">
     <recCalllink>
